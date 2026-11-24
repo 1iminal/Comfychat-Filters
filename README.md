@@ -4,13 +4,13 @@ Custom ComfyUI nodes for overlaying images on top of faces, Snapchat-style.
 
 | 2D (MediaPipe) | 3D (SAM3D Body) |
 |----------------|-----------------|
-|                |                 |
+| https://github.com/user-attachments/assets/fb2dee35-18f0-4153-a5b4-74dd3961797f | https://github.com/user-attachments/assets/dd52bd75-2ffb-4ed4-9c32-c6dab2c25e35 |
 
 WAN identity/expression drift negation for 2D characters (Proposal)
 
 | Default behavior (identity/expression drift) | Faceless + Comfychat-Filters |
 |----------------------------------------------|------------------------------|
-|                                              |                              |
+| https://github.com/user-attachments/assets/1a0a0812-3f51-41d4-94e5-545e6e82f68d | https://github.com/user-attachments/assets/3f940bd3-04b5-4913-bf8f-17b5f17a39eb |
 
 ## Installation
 
